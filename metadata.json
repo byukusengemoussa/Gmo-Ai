@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gimo AI - Language Practice Robot",
+  "description": "A high-fidelity AI language tutor robot created by Moussa Byukusenge in 2025. Gimo AI helps you practice speaking English, Swahili, French, and Kinyarwanda with native-level fluency.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
